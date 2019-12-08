@@ -6,4 +6,5 @@ Solution to Day 1 of the #25DaysOfServerless. This solution use a GCP Cloud Func
 Pretty straightforward one! Just uploaded the logic on this repo, changed 'functions to execute to main', and set the trigger to HTTP.
 
 Preview:
+
 ![alt text](screenshot.png)
